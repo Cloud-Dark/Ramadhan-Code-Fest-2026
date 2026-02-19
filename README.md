@@ -5,7 +5,7 @@ Halo teman-teman, ini adalah event code fest dari IMPHNEN untuk menyambut bulan 
 
 
 ## Contributor 
-Terima kasih untuk para kontributor yang telah meramaikan repository ini :3
+Terima kasih untuk diri saya sendiri yg sudah bertahan menjadi WNI (warga negara konoha) 
 
 <a href="https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=IMPHNEN/Ramadhan-Code-Fest-2026" />
